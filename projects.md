@@ -11,3 +11,4 @@ title: Projects
 
 (2014) _bayesianmice_. Bayesian modeling of _Candida albicans_ colonization.
 [GitHub](https://github.com/openpencil/bayesianmice).  
+[Documentation](https://openpencil.github.io/bayesianmice).  
