@@ -139,6 +139,11 @@ ul.posts {
     color: black;
   }
 
+  .site .title a.active {
+    color: a00;
+    margin-left: 1em;
+  }
+
   .site .meta {
     color: #aaa;
   }

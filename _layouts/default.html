@@ -42,7 +42,11 @@ var WRInitTime=(new Date()).getTime();
   <div class="title">
     <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
     <a href="{{ site.baseurl }}/">Open Pencil</a>
-    <a class="extra" href="/projects.html">Projects</a>
+      {% if page.active == "projects" %}
+      <a class="active" href="#">Projects</a>
+      {% else %}
+      <a class="extra" href="/projects.html">Projects</a>
+      {% endif %}
   </div>
 
   {{ content }}
