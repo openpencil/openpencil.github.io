@@ -37,7 +37,7 @@ p {
 }
 
 a {
-  color: #00a;
+  color: #749C75;
 }
 
 a:hover {
@@ -45,8 +45,9 @@ a:hover {
 }
 
 a:visited {
-  color: #a0a;
+  color: #6A5D7B;
 }
+
 
 /**Horizontal rules **/
 hr {
@@ -115,13 +116,13 @@ ul.posts {
 }
 
 .title {
-  color: #a00;
+  color: #771D3D;
   font-weight: bold;
   margin-bottom: 2em;
 }
 
   .site .title a {
-    color: #a00;
+    color: #771D3D;
     text-decoration: none;
   }
 
