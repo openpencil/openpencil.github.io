@@ -18,7 +18,7 @@ active: projects
 
 ### Ph.D. Thesis
 
-*  (2012) Breast Cancer Heterogeneity: Race, Reproductive and Hormonal Factors. University of Rochester and Roswell Park Cancer Institute. [\[Thesis\]](https://urresearch.rochester.edu/fileDownloadForInstitutionalItem.action?itemId=25623&itemFileId=85435)
+*  (2012) Breast Cancer Heterogeneity: Race, Reproductive and Hormonal Factors. University of Rochester and Roswell Park Cancer Institute. [\[Thesis\]](https://urresearch.rochester.edu/institutionalPublicationPublicView.action?institutionalItemId=25083&versionNumber=1)
 
 
 [\[Google Scholar Profile\]](https://scholar.google.com/citations?hl=en&user=iqjc5xwAAAAJ)
