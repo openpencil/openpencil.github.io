@@ -15,8 +15,8 @@ active: projects
 *  (2015) _rsvbiome_.[Analysis under progress]
 -->
 
-*  (2015) _lungbiome_. Microbial communities and host-cytokine responses during acute infectious events after lung-transplantation.<br/>
-[\[Manuscript under review\]][\[R Code\]](https://github.com/openpencil/lungbiome)
+*  (2015) _lungbiome_. Microbial communities and host-cytokine responses during acute infectious events in lung transplant recipients.<br/>
+\[Manuscript under review\]<span style="color:#ffffff;">..</span>[\[R Code\]](https://github.com/openpencil/lungbiome)
 
 *  (2014) _bayesianmice_.  A Bayesian model-based investigation of _Candida albicans_ colonization in a preclinical mouse model.  <br/>
 [\[Manuscript\]](http://dx.doi.org/10.1038/srep08131)<span style="color:#ffffff;">..</span>[\[Website\]](https://openpencil.github.io/bayesianmice)<span style="color:#ffffff;">..</span>[\[R Code\]](https://github.com/openpencil/bayesianmice)
