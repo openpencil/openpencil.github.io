@@ -6,8 +6,17 @@ active: projects
 ---
 ### Analysis Projects
 
-*  (2015) _lungbiome_. Characterization of microbial communities and host-cytokine responses during acute infectious events after lung-transplantation.<br/>
-[\[R Code\]](https://github.com/openpencil/lungbiome)
+<!---*  (2015) _npevol_. An exploration of nasopharyngeal bacterial communities of infants in the first year of their lives.<br/>
+[\[Analysis under progress\]]
+
+*  (2015) _flubiome_. Characterizing the respiratory microbiome following hospital admission for Influenza.
+[\[Analysis under progress\]]
+
+*  (2015) _rsvbiome_.[Analysis under progress]
+-->
+
+*  (2015) _lungbiome_. Microbial communities and host-cytokine responses during acute infectious events after lung-transplantation.<br/>
+[\[Manuscript under review\]][\[R Code\]](https://github.com/openpencil/lungbiome)
 
 *  (2014) _bayesianmice_.  A Bayesian model-based investigation of _Candida albicans_ colonization in a preclinical mouse model.  <br/>
 [\[Manuscript\]](http://dx.doi.org/10.1038/srep08131)<span style="color:#ffffff;">..</span>[\[Website\]](https://openpencil.github.io/bayesianmice)<span style="color:#ffffff;">..</span>[\[R Code\]](https://github.com/openpencil/bayesianmice)
