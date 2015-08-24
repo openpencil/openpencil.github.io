@@ -8,14 +8,11 @@ active: projects
 
 <!---*  (2015) _npevol_. An exploration of nasopharyngeal bacterial communities of infants in the first year of their lives.<br/>
 [\[Analysis under progress\]]
-
-*  (2015) _flubiome_. Characterizing the respiratory microbiome following hospital admission for Influenza.
-[\[Analysis under progress\]]
-
-*  (2015) _rsvbiome_.[Analysis under progress]
 -->
+*  (2015) _rsvbiome_. Bacterial-viral interactions in childhood Respiratory Syncytial Virus related respiratory illnesses.<br/>
+\[Analysis under progress\]<span style="color:#ffffff;">..</span>[\[R Code\]](https://github.com/openpencil/rsvbiome)
 
-*  (2015) _lungbiome_. Microbial communities and host-cytokine responses during acute infectious events in lung transplant recipients.<br/>
+*  (2015) _lungbiome_. Microbiome and cytokine signatures of culture positive bacterial pneumonia and tracheobronchitis in lung transplant recipients.<br/>
 \[Manuscript under review\]<span style="color:#ffffff;">..</span>[\[R Code\]](https://github.com/openpencil/lungbiome)
 
 *  (2014) _bayesianmice_.  A Bayesian model-based investigation of _Candida albicans_ colonization in a preclinical mouse model.  <br/>
@@ -30,14 +27,4 @@ active: projects
 *  (2012) Breast Cancer Heterogeneity: Race, Reproductive and Hormonal Factors. University of Rochester and Roswell Park Cancer Institute. [\[Thesis\]](https://urresearch.rochester.edu/institutionalPublicationPublicView.action?institutionalItemId=25083&versionNumber=1)
 
 
-[\[Google Scholar Profile\]](https://scholar.google.com/citations?hl=en&user=iqjc5xwAAAAJ)
-<!--
-[Website](https://openpencil.github.io/lungbiome)  
--->
-<!--
-### Technical Reports
-
-(2013) _miseq454_. An exploration of microbial communities after lung-transplantation.  <br/>
-[GitHub](https://github.com/openpencil/lungbiome) [Documentation](https://openpencil.github.io/lungbiome)  
-
--->
+-> [\[Google Scholar Profile\]](https://scholar.google.com/citations?hl=en&user=iqjc5xwAAAAJ) <-
