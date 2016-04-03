@@ -13,7 +13,7 @@ active: projects
 \[Analysis under progress\]<span style="color:#ffffff;">..</span>[\[R Code\]](https://github.com/openpencil/rsvbiome)
 
 *  (2015) _lungbiome_. Microbiome and cytokine signatures of culture positive bacterial pneumonia and tracheobronchitis in lung transplant recipients.<br/>
-\[Manuscript under review\]<span style="color:#ffffff;">..</span>[\[R Code\]](https://github.com/openpencil/lungbiome)
+[\[Manuscript\]](http://dx.doi.org/10.1111/ajt.13676)<span style="color:#ffffff;">..</span>[\[R Code\]](https://github.com/openpencil/lungbiome)
 
 *  (2014) _bayesianmice_.  A Bayesian model-based investigation of _Candida albicans_ colonization in a preclinical mouse model.  <br/>
 [\[Manuscript\]](http://dx.doi.org/10.1038/srep08131)<span style="color:#ffffff;">..</span>[\[Website\]](https://openpencil.github.io/bayesianmice)<span style="color:#ffffff;">..</span>[\[R Code\]](https://github.com/openpencil/bayesianmice)
