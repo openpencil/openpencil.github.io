@@ -14,7 +14,7 @@ rdiscount:
     - smart
     - generate_toc
   toc_token: "!TOC"
-highlighter: pygments
+highlighter: rouge
 
 email: jyoti.shankar@icloud.com
 github: openpencil
