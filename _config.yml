@@ -6,7 +6,7 @@ description: Code. Documentation. Research.
 avatar: https://raw.githubusercontent.com/openpencil/openpencil.github.io/master/assets/OpenPencil.png
 
 # Conversion
-markdown: rdiscount
+markdown: kramdown
 rdiscount:
   extensions:
     - autolink
