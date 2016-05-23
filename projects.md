@@ -6,11 +6,14 @@ active: projects
 ---
 ### Analysis Projects
 
-<!---*  (2015) _npevol_. An exploration of nasopharyngeal bacterial communities of infants in the first year of their lives.<br/>
+*  (2016) _npbiome_. A temporal exploration of nasopharyngeal bacterial communities of infants in the first year of their lives using a sequence of Bayesian analyses.<br/>
 [\[Analysis under progress\]]
--->
+
+*  (2016) _copaxone_pgx_. Pharmacogenetic signatures of response to Copaxone in patients with multiple sclerosis. <br/>
+[\[Manuscript in preparation\]]
+
 *  (2015) _rsvbiome_. Bacterial-viral interactions in childhood Respiratory Syncytial Virus related respiratory illnesses.<br/>
-\[Analysis under progress\]<span style="color:#ffffff;">..</span>[\[R Code\]](https://github.com/openpencil/rsvbiome)
+\[Manuscript\](http://dx.doi.org/10.1038/srep26311)<span style="color:#ffffff;">..</span>[\[R Code\]](https://github.com/openpencil/rsvbiome)
 
 *  (2015) _lungbiome_. Microbiome and cytokine signatures of culture positive bacterial pneumonia and tracheobronchitis in lung transplant recipients.<br/>
 [\[Manuscript\]](http://dx.doi.org/10.1111/ajt.13676)<span style="color:#ffffff;">..</span>[\[R Code\]](https://github.com/openpencil/lungbiome)
