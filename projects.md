@@ -7,7 +7,7 @@ active: projects
 ### Analysis Projects
 
 *  (2016) _npbiome_. A temporal exploration of nasopharyngeal bacterial communities of infants in the first year of their lives using a sequence of Bayesian analyses.<br/>
-\[Analysis under progress\]
+[\[Accepted short paper\]](https://sites.google.com/site/compbioworkshopicml2016/accepted-papers)<span style="color:#ffffff;">..</span>\[Additional analysis under progress\]
 
 *  (2016) _copaxone_pgx_. Pharmacogenetic signatures of response to Copaxone in patients with multiple sclerosis. <br/>
 \[Manuscript in preparation\]
