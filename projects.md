@@ -4,7 +4,7 @@ title: openpencil - Projects
 active: projects
 ---
 ---
-### Analysis Projects
+Analysis Projects
 
 *  (2016) _npbiome_. A temporal exploration of nasopharyngeal bacterial communities of infants in the first year of their lives using a sequence of Bayesian analyses.<br/>
 [\[Accepted short paper\]](https://sites.google.com/site/compbioworkshopicml2016/accepted-papers)<span style="color:#ffffff;">..</span>\[Additional analysis under progress\]
@@ -25,9 +25,9 @@ active: projects
 [\[Manuscript\]](http://dx.doi.org/10.1186/s12859-015-0467-6)<span style="color:#ffffff;">..</span>[\[R Code\]](https://github.com/openpencil/regeval)
 
 
-### Ph.D. Thesis
+# Ph.D. Thesis
 
 *  (2012) Breast Cancer Heterogeneity: Race, Reproductive and Hormonal Factors. University of Rochester and Roswell Park Cancer Institute. [\[Thesis\]](https://urresearch.rochester.edu/institutionalPublicationPublicView.action?institutionalItemId=25083&versionNumber=1)
 
 
--> [\[Google Scholar Profile\]](https://scholar.google.com/citations?hl=en&user=iqjc5xwAAAAJ) <-
+[\[Google Scholar Profile\]](https://scholar.google.com/citations?hl=en&user=iqjc5xwAAAAJ)
