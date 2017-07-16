@@ -10,7 +10,7 @@ Analysis Projects
 [\[Accepted short paper\]](https://sites.google.com/site/compbioworkshopicml2016/accepted-papers)<span style="color:#ffffff;">..</span>\[Additional analysis under progress\]
 
 *  (2016) _copaxone_pgx_. Pharmacogenetic signatures of response to Copaxone in patients with multiple sclerosis. <br/>
-[\[ECTRIMS 2016 Poster\]](http://onlinelibrary.ectrims-congress.eu/ectrims/2016/32nd/145517/colin.ross.association.of.a.multi-snp.signature.with.response.to.copaxone.html)<span style="color:#ffffff;">..</span>[\[Manuscript\](http://dx.doi.org/10.1186/s13073-017-0436-y)]<span style="color:#ffffff;">..</span>[\[Invited Blog\](https://blogs.biomedcentral.com/on-medicine/2017/06/02/can-genetic-variations-predict-response-to-copaxone-in-multiple-sclerosis-patients/)]
+[\[ECTRIMS 2016 Poster\]](http://onlinelibrary.ectrims-congress.eu/ectrims/2016/32nd/145517/colin.ross.association.of.a.multi-snp.signature.with.response.to.copaxone.html)<span style="color:#ffffff;">..</span>[\[Manuscript\]](http://dx.doi.org/10.1186/s13073-017-0436-y)<span style="color:#ffffff;">..</span>[\[Invited Blog\]](https://blogs.biomedcentral.com/on-medicine/2017/06/02/can-genetic-variations-predict-response-to-copaxone-in-multiple-sclerosis-patients/)
 
 *  (2015) _rsvbiome_. Bacterial-viral interactions in childhood Respiratory Syncytial Virus related respiratory illnesses.<br/>
 [\[Manuscript\]](http://dx.doi.org/10.1038/srep26311)<span style="color:#ffffff;">..</span>[\[R Code\]](https://github.com/openpencil/rsvbiome)
